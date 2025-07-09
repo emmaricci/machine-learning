@@ -47,4 +47,4 @@ Feel free to reach out:
 
 💼 [Portfolio](https://emmariccid.myportfolio.com/)
 
-⚙️⚙ [Lab Website](https://www.empowerlab.dartmouth.edu/)
+⚙️ [Lab Website](https://www.empowerlab.dartmouth.edu/)
