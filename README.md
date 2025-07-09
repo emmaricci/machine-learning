@@ -9,13 +9,15 @@ Welcome to my personal repository showcasing a curated collection of machine lea
 ### Data Wrangling
 - **Skills**: cleaning, structuring, exploratory data analysis, visualization
 - **Description**: Loading, cleaning, and exploring real-world dataset using Python and pandas and generating insights through descriptive statistics and visualizations.
+  * [Cat Dataset](https://github.com/emmaricci/machine-learning/blob/main/Data%20Wrangling/cats_wrangling.ipynb)
+  * [Food Dataset](https://github.com/emmaricci/machine-learning/blob/main/Data%20Wrangling/food_wrangling.ipynb)
 
-### Cat Body Length Linear Regression Prediction (from scratch)
-- **Skills**: 
+### [Cat Linear Regression Prediction](https://github.com/emmaricci/machine-learning/blob/main/Linear%20Regression/linear_regression_cats.ipynb)
+- **Skills**: Mean squared error, train test split, multivariate, L2 regression
 - **Description**: A linear regression predictor of cat body length given weight.
 
-### Housing Price Prediction
-- **Tech**: `XGBoost`, `Linear Regression`, `Seaborn`, Regularization (L2), RMSE analysis, feature importance visualization.
+### [Housing Price Prediction](https://github.com/emmaricci/machine-learning/blob/main/Linear%20Regression/housing_regression.ipynb)
+- **Skills**: Mean squared error, Regularization (L2), RMSE analysis
 - **Description**: Predicts housing prices using structured data with feature engineering and hyperparameter tuning.
 
 ---
