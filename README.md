@@ -6,15 +6,15 @@ Welcome to my personal repository showcasing a curated collection of machine lea
 
 ## 📁 Featured Projects
 
-### 🎯 Data Wrangling
+### Data Wrangling
 - **Skills**: cleaning, structuring, exploratory data analysis, visualization
 - **Description**: Loading, cleaning, and exploring real-world dataset using Python and pandas and generating insights through descriptive statistics and visualizations.
 
-### 🐱 Cat Body Length Linear Regression Prediction (from scratch)
+### Cat Body Length Linear Regression Prediction (from scratch)
 - **Skills**: 
 - **Description**: A linear regression predictor of cat body length given weight.
 
-### 📊 Housing Price Prediction
+### Housing Price Prediction
 - **Tech**: `XGBoost`, `Linear Regression`, `Seaborn`, Regularization (L2), RMSE analysis, feature importance visualization.
 - **Description**: Predicts housing prices using structured data with feature engineering and hyperparameter tuning.
 
@@ -37,7 +37,7 @@ This repository reflects my journey in:
 
 ---
 
-# 📬 Contact
+## 📬 Contact
 I’m always happy to connect, collaborate, or discuss machine learning and data science!
 Feel free to reach out:
 
