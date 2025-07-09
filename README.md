@@ -16,7 +16,7 @@ Welcome to my personal repository showcasing a curated collection of machine lea
 - **Skills**: Mean squared error, train test split, multivariate, L2 regression
 - **Description**: A linear regression predictor of cat body length given weight.
 
-### [Housing Price Prediction](https://github.com/emmaricci/machine-learning/blob/main/Linear%20Regression/housing_regression.ipynb)
+### [Housing Price Linear Regression Prediction](https://github.com/emmaricci/machine-learning/blob/main/Linear%20Regression/housing_regression.ipynb)
 - **Skills**: Mean squared error, Regularization (L2), RMSE analysis
 - **Description**: Predicts housing prices using structured data with feature engineering and hyperparameter tuning.
 
