@@ -20,12 +20,16 @@ Welcome to my personal repository showcasing a curated collection of machine lea
 - **Skills**: Mean squared error, L2 Regularization, batch gradient descent, hold-out cross validation, RMSE analysis.
 - **Description**: Predicts housing prices using structured data with feature engineering and hyperparameter tuning.
 
+### [Ice Cream Sales Nonlinear Regression Prediction](https://github.com/emmaricci/machine-learning/blob/main/Nonlinear%20Regression/nonlinear_regression.pdf)
+- **Skills**: Polynomial regression, learnable feature transformations, mean squared error, batch gradient descent.
+- **Description**: Predicts ice cream sales based on temperature using polynomial regression.
+
 ---
 
 ## 🛠 Technologies Used
 - Python 3.11+
 - `pandas`, `numpy`, `matplotlib`, `seaborn`
-- `scikit-learn`[, `XGBoost`, `TensorFlow`, `Keras`]
+- `scikit-learn`
 - Jupyter Notebooks & VSCode
 
 ---
