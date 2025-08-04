@@ -15,11 +15,12 @@ Welcome to my personal repository showcasing a curated collection of machine lea
 ### [Cat Linear Regression Prediction](https://github.com/emmaricci/machine-learning/blob/main/Linear%20Regression/linear_regression_cats.ipynb)
 - **Skills**: Mean squared error, train test split, multivariate, L2 regression, batch gradient descent, hold-out cross validation.
 - **Description**: A linear regression predictor of cat body length given weight.
-- [Scikit-learn implementation](https://github.com/emmaricci/machine-learning/blob/main/Linear%20Regression/scikit_linear_cats.ipynb)
+- [Scikit-learn Implementation](https://github.com/emmaricci/machine-learning/blob/main/Linear%20Regression/scikit_linear_cats.ipynb)
 
 ### [Housing Price Linear Regression Prediction](https://github.com/emmaricci/machine-learning/blob/main/Linear%20Regression/housing_regression.ipynb)
 - **Skills**: Mean squared error, L2 Regularization, batch gradient descent, hold-out cross validation, RMSE analysis.
 - **Description**: Predicts housing prices using structured data with feature engineering and hyperparameter tuning.
+- [Scikit-learn Implementation](https://github.com/emmaricci/machine-learning/blob/main/Linear%20Regression/scikit_linear_housing.ipynb)
 
 ### [Ice Cream Sales Nonlinear Regression Prediction](https://github.com/emmaricci/machine-learning/blob/main/Nonlinear%20Regression/nonlinear_regression.pdf)
 - **Skills**: Polynomial regression, learnable feature transformations, mean squared error, batch gradient descent.
