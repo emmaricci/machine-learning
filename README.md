@@ -25,9 +25,10 @@ Welcome to my personal repository showcasing a curated collection of machine lea
 ### [Ice Cream Sales Nonlinear Regression Prediction](https://github.com/emmaricci/machine-learning/blob/main/Nonlinear%20Regression/nonlinear_regression.pdf)
 - **Skills**: Polynomial regression, learnable feature transformations, mean squared error, batch gradient descent.
 - **Description**: Predicts ice cream sales based on temperature using polynomial regression.
+- [Scikit-learn Implementation](https://github.com/emmaricci/machine-learning/blob/main/Nonlinear%20Regression/scikit_nonlinear.ipynb)
 
 ### [Heart Disease Logistic Regression Prediction](https://github.com/emmaricci/machine-learning/blob/main/Logistic%20Regression/logistic_regression.pdf)
-- **Skills**: sigmoid function, cross entropy, batch gradient descent, L2 regularization, model evaluation (log loss, accuracy, precision, recall, F1 score), confusion matrix.
+- **Skills**: sigmoid function, cross entropy, batch gradient descent, L2 regularization, model evaluation (log loss, accuracy, precision, recall, F1 score), confusion matrix, scikit learn implementation.
 - **Description**: Predicts ice cream sales based on temperature using polynomial regression.
 
 ---
