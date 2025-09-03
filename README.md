@@ -31,6 +31,10 @@ Welcome to my personal repository showcasing a curated collection of machine lea
 - **Skills**: sigmoid function, cross entropy, batch gradient descent, L2 regularization, model evaluation (log loss, accuracy, precision, recall, F1 score), confusion matrix, scikit learn implementation.
 - **Description**: Predicts ice cream sales based on temperature using polynomial regression.
 
+### [Cancer Diagnosis Support Vector Machine Classifier](https://github.com/emmaricci/machine-learning/blob/main/Support%20Vector%20Machine/SVM.pdf)
+- **Skills**: hinge loss, L2 regularization, C-parameterization, batch gradient descent, mini-batch training, epochs, model evaluation (accuracy, precision, recall, F1 score, ROC AUC), confusion matrix, data visualization (matplotlib, seaborn, plotly), scikit-learn implementation (SVC, Pipeline, cross-validation, GridSearchCV).
+- **Description**: Support Vector Machines to classify breast cancer tumors as malignant or benign, combining custom implementations with scikit-learn pipelines and hyperparameter tuning.
+
 ---
 
 ## 🛠 Technologies Used
