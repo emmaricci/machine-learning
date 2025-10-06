@@ -35,6 +35,11 @@ Welcome to my personal repository showcasing a curated collection of machine lea
 - **Skills**: hinge loss, L2 regularization, C-parameterization, batch gradient descent, mini-batch training, epochs, model evaluation (accuracy, precision, recall, F1 score, ROC AUC), confusion matrix, data visualization (matplotlib, seaborn, plotly), scikit-learn implementation (SVC, Pipeline, cross-validation, GridSearchCV).
 - **Description**: Support Vector Machines to classify breast cancer tumors as malignant or benign, combining custom implementations with scikit-learn pipelines and hyperparameter tuning.
 
+### [Diabetes Risk k-Nearest Neighbors Classifier](https://github.com/emmaricci/machine-learning/blob/main/k%20Nearest%20Neighbors/KNN.pdf)
+- **Skills**: data cleaning (impossible zeros, outliers), feature scaling (Standardization), cross-validation (5-fold, stratified), class imbalance handling (stratified split, simple re-/under-sampling), model evaluation (accuracy, precision, recall, F1, ROC-AUC), data visualization (matplotlib, seaborn, plotly), scikit-learn implementation (KNeighborsClassifier, cross_val_score).
+- **Description**: Built a kNN classifier to predict diabetes from routine clinical measures, cleaning implausible zeros, standardizing features, tuning k via stratified 5-fold CV, and reporting F1 score and ROC-AUC.
+
+
 ---
 
 ## 🛠 Technologies Used
