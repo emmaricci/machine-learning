@@ -39,6 +39,10 @@ Welcome to my personal repository showcasing a curated collection of machine lea
 - **Skills**: data cleaning (impossible zeros, outliers), feature scaling (Standardization), cross-validation (5-fold, stratified), class imbalance handling (stratified split, simple re-/under-sampling), model evaluation (accuracy, precision, recall, F1, ROC-AUC), data visualization (matplotlib, seaborn, plotly), scikit-learn implementation (KNeighborsClassifier, cross_val_score).
 - **Description**: Built a kNN classifier to predict diabetes from routine clinical measures, cleaning implausible zeros, standardizing features, tuning k via stratified 5-fold CV, and reporting F1 score and ROC-AUC.
 
+### [Global Life Expectancy K-Means Clustering](https://github.com/emmaricci/machine-learning/blob/main/K%20Means%20Clustering/k_means_clustering.pdf)
+- **Skills**: data cleaning (outlier detection and removal), feature engineering (categorical binning, geocoding), feature scaling (normalization), unsupervised learning (K-Means clustering), model evaluation (silhouette score), data visualization (seaborn, matplotlib), scikit-learn implementation (KMeans, train_test_split, preprocessing).
+- **Description**: Applied K-Means clustering to group 199 countries by geographic coordinates and life expectancy across sexes. Cleaned and filtered outliers, engineered categorical features, and normalized latitude–longitude data before clustering. Determined optimal cluster number via silhouette analysis and visualized results to interpret global health disparities across low-, mid-, and high-life-expectancy regions
+
 
 ---
 
