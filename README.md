@@ -43,7 +43,7 @@ Welcome to my personal repository showcasing a curated collection of machine lea
 - **Skills**: data cleaning (outlier detection and removal), feature engineering (categorical binning, geocoding), feature scaling (normalization), unsupervised learning (K-Means clustering), model evaluation (silhouette score), data visualization (seaborn, matplotlib), scikit-learn implementation (KMeans, train_test_split, preprocessing).
 - **Description**: Applied K-Means clustering to group 199 countries by geographic coordinates and life expectancy across sexes. Cleaned and filtered outliers, engineered categorical features, and normalized latitude–longitude data before clustering. Determined optimal cluster number via silhouette analysis and visualized results to interpret global health disparities across low-, mid-, and high-life-expectancy regions
 
-### [And a few other models]
+### And a few other models
 - [Naive Bayes](https://github.com/emmaricci/machine-learning/blob/main/naive_bayes.pdf)
 - [Perceptron](https://github.com/emmaricci/machine-learning/blob/main/perceptron.pdf)
 - [Principal Component Analysis](https://github.com/emmaricci/machine-learning/blob/main/pca.pdf)
