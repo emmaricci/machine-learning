@@ -48,10 +48,10 @@ Welcome to my personal repository showcasing a curated collection of machine lea
 - [Perceptron](https://github.com/emmaricci/machine-learning/blob/main/perceptron.pdf)
 - [Principal Component Analysis](https://github.com/emmaricci/machine-learning/blob/main/pca.pdf)
 - [Multiclass classification with PyTorch](https://github.com/emmaricci/machine-learning/blob/main/multiclass.pdf)
-- [Decision Tree]()
-- [Random Forest]()
-- [Gradient Boosting]()
-- [XG Boost]()
+- [Decision Tree](https://github.com/emmaricci/machine-learning/blob/main/decision_tree.ipynb)
+- [Random Forest](https://github.com/emmaricci/machine-learning/blob/main/random_forest.ipynb)
+- [Gradient Boosting](https://github.com/emmaricci/machine-learning/blob/main/gradient_boost.ipynb)
+- [XGBoost](https://github.com/emmaricci/machine-learning/blob/main/xgboost.ipynb)
 
 ---
 
